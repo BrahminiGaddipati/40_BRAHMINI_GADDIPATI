@@ -1,0 +1,16 @@
+category,title,description,action
+discharge,Mild pneumonia,Amoxicillin twice daily after meals,"Breathing difficulty, chest pain, persistent fever"
+discharge,Hypertension,Amlodipine once daily morning,"Dizziness, swelling of feet, severe headache"
+discharge,Post appendectomy,Pain medication after food,"Fever, wound redness, severe pain"
+discharge,Type 2 Diabetes,Metformin twice daily with meals,"Sweating, confusion, dizziness"
+discharge,Asthma,Use inhaler as prescribed,"Severe wheezing, breathlessness"
+drug,Paracetamol,One tablet every 6 hours after food,Allergic reaction
+drug,Amoxicillin,Twice daily after meals,Severe allergy
+drug,Amlodipine,Once daily,"Dizziness, ankle swelling"
+drug,Metformin,With meals,Severe nausea
+drug,Salbutamol Inhaler,During breathing difficulty,Fast heartbeat
+symptom,Chest Pain,May indicate heart condition,Emergency
+symptom,High Fever,Above 102°F for 24 hrs,Emergency
+symptom,Shortness of Breath,Life-threatening,Emergency
+symptom,Dizziness,Low BP or medication,Consult doctor
+symptom,Severe Allergic Reaction,Swelling of face/lips,Emergency
